@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 run.py --n 50 --K 8 --density 0.25 --seed 10)",
+      "Bash(python3 run.py --n 200 --K 15 --density 0.40 --seed 20)",
+      "Bash(python3 run.py --n 100 --K 10 --density 0.30 --seed 11)",
+      "Bash(python3 run.py --n 150 --K 12 --density 0.35 --seed 12)"
+    ]
+  }
+}
